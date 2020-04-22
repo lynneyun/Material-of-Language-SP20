@@ -24,3 +24,7 @@ Some initial ideas:
 - A lowercase-only set
 	- Pros: It’s more modular than uppercase, potentially more fun in longer text
 	- Cons: lots of similar shapes might work against legibility
+
+## Notes and Thoughts from Class 4/22/2020 ##
+- Perhaps it could be more interesting as a monospace typeface?
+- References to check out from Allison : [ABC Blocks](https://illuminatingloy.suzannechurchill.com/project/abc-blocks/), [Margaret Konkol post](https://mina-loy.com/endehorsgarde/alphabets-that-build-themselves/)
