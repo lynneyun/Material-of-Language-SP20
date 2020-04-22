@@ -11,7 +11,7 @@ What is the smallest unit of language? A quick google search on the topic tells 
 This kind of structure of ‘rational’ thinking probably can date back to the Renaissance and the [Roman du Roi](https://en.wikipedia.org/wiki/Romain_du_Roi). The so-called logical design of it wasn’t the most beautiful, but it did lay down the idea of the ‘rational letter’. There is also a recent attempt at breaking down the typeface Futura (I’ve seen it at art book fairs/McNally Jackson, but can’t find the book online).
 
 ## What will the project look like? ##
-In short, I think it will be an interface where you can change parameters of the ‘molecular structure’ and it will change the entire outlook of the typeface. Ideally, it would have some sort of GUI where you can change parts, and it will affect a bigger body of type.
+In short, I think it will be an interface where you can change parameters of the ‘molecular structure’ and it will change the entire outlook of the typeface. Ideally, it would have some sort of GUI where you can change parts, and it will affect a bigger body of type. Some similar attempts that have been made are [Phase](https://www.eliashanzer.com/phase/), and to a larger extent [V-Fonts](https://v-fonts.com) (although their objectives are obviously different).
 
 ## Some necessary parameters ##
 The world of type is big, and for this project to work I think I would need to define what I am trying to ‘take apart’ into smaller pieces. 
