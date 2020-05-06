@@ -31,4 +31,4 @@ Some initial ideas:
 
 ## Sketches
 
-![img3](img/skteches.png)
+![img3](img/sketches.png)
