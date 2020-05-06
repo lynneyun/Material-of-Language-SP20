@@ -28,3 +28,7 @@ Some initial ideas:
 ## Notes and Thoughts from Class 4/22/2020 ##
 - Perhaps it could be more interesting as a monospace typeface?
 - References to check out from Allison : [ABC Blocks](https://illuminatingloy.suzannechurchill.com/project/abc-blocks/), [Margaret Konkol post](https://mina-loy.com/endehorsgarde/alphabets-that-build-themselves/)
+
+## Sketches
+
+![img3](img/skteches.png)
